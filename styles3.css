@@ -392,3 +392,6 @@ button{
   background-color: #ffffffe3;
   cursor: pointer;
 }
+form {
+  margin-right: 30rem;
+}
